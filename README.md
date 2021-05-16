@@ -1,12 +1,15 @@
-# Lucia-Magazine
+<h1> Lucia-Magazine </h1>
 
-Projeto de faculdade do 2 ano
+## Projeto de faculdade do 2 semestreS
 
-objetivos:site responsivo (com front end e back end),chat bot ,acessibilidade
+## objetivosS
++ site responsivo (com front end e back end)
++ chat bot 
++ acessibilidade
 
-Tecnologias
-,mysql
-,php
-,html
-,css
-,python.
+## Tecnologias
++ mysql
++ php
++ html
++ css
++ python.
